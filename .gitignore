@@ -1,0 +1,6 @@
+env
+pipfile.lock
+
+test.db
+
+__pycache__/
